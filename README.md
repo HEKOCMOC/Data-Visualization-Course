@@ -1,2 +1,5 @@
-# Data-Visualization-Course
-Completed homework in the subject "Data Visualization"
+# Data Visualization Course
+
+№ | Homework | Status
+--- | --- | ---
+1 |  | 
